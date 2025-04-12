@@ -1,0 +1,43 @@
+body {
+    background:linear-gradient(to bottom,#1e3c72, #2a6c98);
+    color:white;
+    text-align: center;
+}
+header {
+    padding: 20px;
+    background:linear-gradient(to bottom, #1e3c72, #2a6c98);
+    border-radius: 10px;
+    margin:20px auto;
+    width: 800;
+}
+h1 {
+    font-family:'Lucida Handwriting', cursive;
+    color: #ffde59;
+    font-size: 50px;
+}
+h2 {
+    font-family:'Comic Sans MS', serif;
+    font-size:25px;
+}
+p, ul {
+    font-family:"Courier New", serif;
+    font-size: 20px;
+}
+.card {
+    background:rgba(97, 158, 227, 0.2);
+    padding: 20px;
+    border-radius: 15px;
+    width: 80%;
+    margin: 40px auto;
+}
+.thing-card img{
+    background: rgba(97, 158, 227, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+.thingsilove {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
